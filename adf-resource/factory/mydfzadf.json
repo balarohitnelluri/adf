@@ -1,9 +1,0 @@
-{
-	"name": "mydfzadf",
-	"location": "eastus",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "eb43ee37-f49e-45b6-a2b7-7576d1e9fcd5",
-		"tenantId": "563337ca-a517-421a-aae0-1aa5b414fd7f"
-	}
-}
